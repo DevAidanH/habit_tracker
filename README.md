@@ -12,9 +12,9 @@ A simple habit tracker which will allow the user to enter a list of habits and t
 
 ### Project Breakdown
 * Design
-    * Welcome screen 
+    * Welcome screen - DONE
     * Login/signup flow
-    * Home screen (Including add, edit and delete flows for habits)
+    * Home screen (Including add, edit and delete flows for habits) - DONE
     * Settings page
     * Friend flow 
     * Logo and app theme
@@ -47,6 +47,9 @@ A simple habit tracker which will allow the user to enter a list of habits and t
     * Add friends
     * Delete friends
     * View friends data 
+
+### Features to add 
+* Draggable lists 
 
 ### Completed Tasks
 

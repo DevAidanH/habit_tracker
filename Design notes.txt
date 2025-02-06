@@ -1,0 +1,9 @@
+Colors codes
+
+Background/Font on dark - #e0e0e0
+Green - #41a345
+Dark - #2e2d40
+Habit color - #ebebeb
+Delete color - #ff6685
+
+Font - Roboto

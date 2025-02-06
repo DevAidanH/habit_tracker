@@ -1,16 +1,52 @@
-# habit_tracker
+# Habit Tracker 
+06/02/2026 - Aidan Humpidge
 
-A new Flutter project.
+A simple habit tracker which will allow the user to enter a list of habits and then tick off each day when they are completed. The progress will be tracked. The app will also allow users to connect with friends and view each other's progress to ensure accountability
 
-## Getting Started
+## Project Steps 
+* Design
+* Create single user functionality 
+* Link to Firebase
+* Login/Register system
+* Friend system 
 
-This project is a starting point for a Flutter application.
+### Project Breakdown
+* Design
+    * Welcome screen 
+    * Login/signup flow
+    * Home screen (Including add, edit and delete flows for habits)
+    * Settings page
+    * Friend flow 
+    * Logo and app theme
+    * Find icons
+* Create single user functionality
+    * Welcome page
+    * Homepage
+    * Add habit
+    * Tick off habit
+    * Edit habit
+    * Delete habit
+    * Heatmap
+* Link to Firebase
+    * Design database
+    * Connect to Firebase
+    * Save data
+    * Read data
+* Login/Register system
+    * Login/Signup page
+    * Signup system
+    * Login system
+    * Forgot password system
+    * Settings page
+    * Change password
+    * Delete account 
+    * Visable for friends
+* Friend system
+    * Friends page
+    * Search friends
+    * Add friends
+    * Delete friends
+    * View friends data 
 
-A few resources to get you started if this is your first Flutter project:
+### Completed Tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

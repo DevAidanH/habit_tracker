@@ -10,16 +10,16 @@ class Welcomepage extends StatelessWidget {
       body: Column(
         children: [
           Container(
-            margin: EdgeInsets.only(top: 100),
+            margin: EdgeInsets.only(top: 150),
             padding: EdgeInsets.all(30),
             child: Image.asset("lib/images/welcomeScreen.png"),
           ),
-          Padding(
+          /*Padding(
             padding: const EdgeInsets.all(20),
             child: Text("HABIT TRACKER", style: TextStyle(fontWeight: FontWeight.w900, fontSize: 48, color: Theme.of(context).colorScheme.primary),),
-          ),
+          ),*/
           Container(
-            margin: EdgeInsets.only(bottom: 30),
+            margin: EdgeInsets.only(bottom: 50),
             child: Text("Simple steps for big goals", style: TextStyle(fontSize: 16, color: Theme.of(context).colorScheme.primary),)
           ),
           MaterialButton(

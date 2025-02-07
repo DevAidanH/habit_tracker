@@ -20,13 +20,13 @@ A simple habit tracker which will allow the user to enter a list of habits and t
     * Logo and app theme
     * Find icons
 * Create single user functionality
-    * Welcome page
-    * Homepage
-    * Add habit
+    * Welcome page - DONE
+    * Homepage - DONE
+    * Add habit - DONE
     * Tick off habit
-    * Edit habit
-    * Delete habit
-    * Heatmap
+    * Edit habit - DONE
+    * Delete habit - DONE
+    * Heatmap - Can only be done once Firebase has been implemented
 * Link to Firebase
     * Design database
     * Connect to Firebase

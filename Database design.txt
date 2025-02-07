@@ -1,0 +1,18 @@
+flat file database - 
+
+when a user is created it should generate an ID. 
+
+User Table
+- ID - string
+- Username - string
+- Email - string
+- Password - password
+- Account created date - string
+
+User ID Habits Table
+- List of Habits
+    - Habit name
+    - isCompleted
+
+User ID Friends Table
+- List of current friends users

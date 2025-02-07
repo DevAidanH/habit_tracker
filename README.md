@@ -23,7 +23,7 @@ A simple habit tracker which will allow the user to enter a list of habits and t
     * Welcome page - DONE
     * Homepage - DONE
     * Add habit - DONE
-    * Tick off habit
+    * Tick off habit - DONE
     * Edit habit - DONE
     * Delete habit - DONE
     * Heatmap - Can only be done once Firebase has been implemented
